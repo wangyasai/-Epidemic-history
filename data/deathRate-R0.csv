@@ -1,0 +1,46 @@
+﻿ID,eng,name,x,y,legend
+3,Anthrax,肺炭疽病,0,0.8,r
+25,Bird flu,禽流感,1.2,0.6,t
+2,Anthrax,肠胃炭疽病,0,0.5,
+14,Ebola,埃博拉,1.9,0.5,r
+36,Marburg virus disease,马尔堡病,1.3,0.5,t
+40,MERS,中东呼吸综合症,0.5,0.356,r
+59,Smallpox,天花,5,0.3,r
+48,Polio ,脊髓灰质炎,3.5,0.23,t
+44,Plague,鼠疫,3.5,0.15,r
+62,Tuberculosis,结核病,2.3,0.141,t
+38,Meningitis,脑膜炎,1.3,0.115,
+12,Diphtheria,白喉,2.5,0.113,
+53,SARS,非典型肺炎,2.8,0.096,r
+57,Sleeping sickness ,嗜睡病,1.3,0.06,
+69,Yellow fever,黄热病,4.3,0.055,
+47,Pneumonia ,肺炎,1.1,0.05,
+67,West Nile fever,西尼罗河热,0.5,0.048,
+8,Cholera,霍乱,9.5,0.032,t
+27,Spanish flu,西班牙流感,2.2,0.025,t
+79,,新冠病毒,3.77,0.023,t
+23,HIV,艾滋病,6,0.021,t
+29,Leishmaniasis ,利什曼病,0.7,0.019,
+49,Rabies ,狂犬病,1,0.01,
+64,Typhoid ,伤寒,1.2,0.01,
+78,Scarlet fever,猩红热,4,0.01,
+37,Measles,麻疹,9,0.007,
+51,Rotavirus,轮状病毒感染,0.9,0.007,
+68,Whooping cough,百日咳,9,0.006,
+28,Swine flu,猪流感（甲型H1N1）,1.5,0.002,
+32,Lyme disease,莱姆病,0.5,0.002,
+34,Malaria,疟疾,17,0.002,t
+17,Guinea worm disease,几内亚线虫病,10.2,0.001,
+18,"Hand, foot & mouth ",手足口病,4,0.001,
+22,Hepatitis B,乙肝,5,0.001,t
+26,Seasonal flu,季节性流感,1,0.001,
+43,Norovirus,诺如病毒感染,7.8,0.001,
+6,Chickenpox ,水痘,8.5,0,t
+9,Common cold,普通感冒,2,0,
+10,Dengue fever,登革热,11,0,
+21,Hepatitis A,急性甲肝,2,0,
+42,Mumps,腮腺炎,7,0,
+55,Schistosomiasis,血吸虫病,3.1,0,
+70,Zika,寨卡病毒感染,4.2,0,
+71,Chlamydia,衣原体感染,1.8,0,
+72,Gonorrhea,淋病,1,0,
